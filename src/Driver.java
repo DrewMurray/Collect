@@ -22,7 +22,7 @@ public class Driver {
 		
 		//Put the list into a Set.
 		Set<String> set = new HashSet<String>(list);
-		
+		//when printed repeated Strings only print once showing only unique values.
 		System.out.println(set);
 		
 		//create HashMap
